@@ -1,85 +1,85 @@
-# Hi 👋, I'm Md. Sanzid Hasnat  
-### A passionate Frontend Developer from Bangladesh
+<h1 align="center">Hi 👋, I'm <strong>Md. Sanzid Hasnat</strong></h1>
+<h3 align="center">Frontend Developer • Building sleek, accessible & performant web experiences</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mdsanzidhasnat&label=Profile%20views&color=0e75b6&style=flat" alt="mdsanzidhasnat" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsanzidhasnat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I'm currently working at **TIC Limited** (Frontend Developer)
-- 🌱 I'm currently learning **React**
-- 💬 Ask me about **React, JavaScript, Frontend Development**
-- 📫 How to reach me: **mdsanzidhasnat27@gmail.com**
+## 🚀 About Me
+- 🔭 Currently working at **TIC Limited** as a **Frontend Developer**.  
+- 🌱 Actively learning and building with **React**, improving UI architecture and frontend performance.  
+- 💬 Ask me about **React, JavaScript, CSS, web accessibility, performance optimization**.  
+- 📫 Email: **mdsanzidhasnat27@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠 Tech Stack
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" />&nbsp;
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" />&nbsp;
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" />&nbsp;
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" />&nbsp;
+  <img alt="Next.js" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36" />&nbsp;
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" />&nbsp;
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" />&nbsp;
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" />&nbsp;
+  <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" />&nbsp;
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" />&nbsp;
+  <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsanzidhasnat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsanzidhasnat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsanzidhasnat&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsanzidhasnat&layout=compact&langs_count=6&theme=radical" alt="Top languages" height="150" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
-
-<div align="left">
-  <a href="mailto:mdsanzidhasnat27@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+## ✨ Highlights
+- Built responsive user interfaces with **React** and **Next.js** focusing on performance and accessibility.  
+- Experience integrating REST APIs, managing state, and optimizing bundle sizes & Lighthouse scores.  
+- Comfortable in team environments using **Git**, code reviews, and CI workflows.
 
 ---
+
+## 📁 Featured Projects
+> *(Replace these placeholders with your real project links & short descriptions)*
+
+- **Project Name 1** — Short 1-line description; tech: React, Tailwind, Node.  
+  `🔗 https://github.com/mdsanzidhasnat/project-1`
+
+- **Project Name 2** — Short 1-line description; tech: Next.js, MongoDB, Vercel.  
+  `🔗 https://github.com/mdsanzidhasnat/project-2`
+
+- **Putler-like Dashboard (Demo)** — Frontend clone built with HTML/CSS/JSX to match UI prototype.  
+  `🔗 https://github.com/mdsanzidhasnat/putler-clone`
+
+---
+
+## 🧩 How I Work
+- Focus on **clean, maintainable code**, reusability, and component-driven design.  
+- Prioritize **performance** (lazy loading, code-splitting) and **accessibility** (semantic HTML, ARIA where needed).  
+- Prefer incremental improvements: small PRs, tests, and clear commit messages.
+
+---
+
+## 📫 Contact
+- ✉️ Email: **mdsanzidhasnat27@gmail.com**  
+- 🔗 LinkedIn: `https://www.linkedin.com/in/your-linkedin` *(update with your LinkedIn URL)*
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning pixel-perfect designs into fast, accessible UI — and learning something new every week.
+
+---
+
+<p align="center">
+  <em>Made with ❤️ • View my work & connect — I’m open to collaboration and new opportunities.</em>
+</p>
