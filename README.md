@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working at **TIC Limited** (E-Commerce)
+- 🔭 I'm currently working at **TIC Limited** (Frontend Developer)
 - 🌱 I'm currently learning **React**
 - 💬 Ask me about **React, JavaScript, Frontend Development**
 - 📫 How to reach me: **mdsanzidhasnat27@gmail.com**
