@@ -86,8 +86,7 @@
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
-
+![Snake animation](https://github.com/mdsanzidhasnat/mdsanzidhasnat/blob/output/github-contribution-grid-snake.gif)
 ---
 
 *Note: Replace "your-linkedin" with your actual LinkedIn profile URL in the Connect section*
